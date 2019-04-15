@@ -1,6 +1,0 @@
-com\mohdasha\web\controller\TestController.class
-com\mohdasha\MyWebApplicationInitializer.class
-com\mohdasha\web\config\WebConfig.class
-com\mohdasha\root\config\RootConfig.class
-com\mohdasha\root\services\HelloWorldService.class
-com\mohdasha\root\dao\HelloWorldDao.class
